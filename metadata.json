@@ -1,0 +1,6 @@
+{
+  "name": "Patient Tracker",
+  "description": "A comprehensive clinic patient tracking system equipped with appointment schedulers, clinical logs, vital graphs, and AI-powered checkup insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
